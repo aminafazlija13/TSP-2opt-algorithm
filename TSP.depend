@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1513763980 source:d:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513764048 d:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 d:\tspalgoritmi\tsp\grad.h
+
+1513807700 source:i:\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+
+1513809480 i:\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 i:\tspalgoritmi\tsp\grad.h
+
+1513809478 i:\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+
+1515586269 source:c:\users\amina pc\downloads\tspalgoritmi (1)\tspalgoritmi\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+	<time.h>
+	<math.h>
+
+1515588802 c:\users\amina pc\downloads\tspalgoritmi (1)\tspalgoritmi\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\amina pc\downloads\tspalgoritmi (1)\tspalgoritmi\tsp\grad.h
+
+1515238483 c:\users\amina pc\downloads\tspalgoritmi (1)\tspalgoritmi\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+	"graf.h"
+
+1515586269 source:c:\users\amina pc\desktop\tsp\main.cpp
+	<iostream>
+	"graf.h"
+	<string>
+	<time.h>
+	<math.h>
+
+1515614381 c:\users\amina pc\desktop\tsp\graf.h
+	"grad.h"
+	"binarni.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<climits>
+	<algorithm>
+	<cmath>
+
+1513757624 c:\users\amina pc\desktop\tsp\grad.h
+
+1515238483 c:\users\amina pc\desktop\tsp\binarni.h
+	<vector>
+	<queue>
+	<algorithm>
+	<stack>
+	"graf.h"
+
